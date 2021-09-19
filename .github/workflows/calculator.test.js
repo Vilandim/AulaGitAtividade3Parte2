@@ -12,5 +12,5 @@ test("testar divisão de 42/6", () => {
 } )
 
 test("testar soma de 5+5", () => {
-    expect(calculator.soma(5,5)).toBe(11);
+    expect(calculator.soma(5,5)).toBe(10);
 })
